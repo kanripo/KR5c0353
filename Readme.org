@@ -1,17 +1,3 @@
-#+TITLE: 庚道集 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 00:56:31.312878
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5c0353_000.txt][庚道集 0]]
- - [[file:KR5c0353_001.txt][庚道集 1]]
- - [[file:KR5c0353_002.txt][庚道集 2]]
- - [[file:KR5c0353_003.txt][庚道集 3]]
- - [[file:KR5c0353_004.txt][庚道集 4]]
- - [[file:KR5c0353_005.txt][庚道集 5]]
- - [[file:KR5c0353_006.txt][庚道集 6]]
- - [[file:KR5c0353_007.txt][庚道集 7]]
- - [[file:KR5c0353_008.txt][庚道集 8]]
- - [[file:KR5c0353_009.txt][庚道集 9]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
