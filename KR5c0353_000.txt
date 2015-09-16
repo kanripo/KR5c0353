@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:56:31.005166
+# -*- mode: mandoku-view -*-
 #+TITLE: 庚道集
-#+PROPERTY: DZID  DZ0953
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，19—437 九卷 洞神部眾術類
+#+DATE: 2015-08-29 00:56:36
+#+PROPERTY:  LASTPB <PB KR5c0353_SJB_009-190498c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶<md:KR5c0353_HFL_009-025b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+
